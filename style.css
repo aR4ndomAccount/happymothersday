@@ -1,0 +1,33 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #0f96f0, #009b79, #278056, #417744, #09b171);
+}
+
+
+h1
+{
+    color: cornflowerblue;
+    font-family:fantasy
+}
+#img1 {
+    max-width: 500px;
+    max-height: 10%;
+   }
+   #img2{
+    max-width: 250px;
+    max-height: 10%;
+   }
+   #img3{
+    max-width: 250px;
+    max-height: 10%;
+   }
+   #img4{
+    max-width: 250px;
+    max-height: 10%;
+   }
